@@ -4,4 +4,4 @@ runit is a dynamic event match-making web app, enabling users to participate in 
 
 [Click here to launch runit](https://runit-org.github.io/runit.github.io/)
 
-📱 Mobile version coming soon!
+📱 Mobile app coming soon!
